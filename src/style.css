@@ -1,0 +1,21 @@
+a {
+  text-decoration: underline;
+  color: blue;
+}
+
+.foto{
+  border: 1px solid;
+  padding-top:40px;
+  padding-bottom:40px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.foto-box{
+  padding-top:40px;
+  padding-bottom:40px;
+}
+
+button{
+  margin-top:5px;
+}
